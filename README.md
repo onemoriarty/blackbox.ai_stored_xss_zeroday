@@ -23,6 +23,7 @@ bende basladım düşünmeye https://www.blackbox.ai/screenshot burda payloadım
 pocs https://www.blackbox.ai/screenshot/CQ8YixZAAJBt-eFdTi5ZL?share=true
 girdiğinizde sizi indexim+kamera izni+konum izni isticek ek olarak oturumunuz acıksa mailinizide scraplicek ek olarak ip ve user agentıda scraplicek. 
 
+cıktı ornegı : 
 okudugunuz icin tişkettkürler :>>>
 
 
