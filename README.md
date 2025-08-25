@@ -8,7 +8,7 @@ selam knklar ben moriarty kısaca mori, bugün sizlere blackbox.ai sitesinde vul
 
 # acıgın olası verebilceği zararları
 
-bu açık sayesinde "/api/auth/session" belgesinde tutulan basic olan oturum belgelerini alıp uzaktaki hackerın sunucusuna aktarabilirik
+bu açık sayesinde "/api/auth/session" belgesinde tutulan basit bilgiler olan oturum belgesinin içeriğini alıp uzaktaki hackerın sunucusuna aktarabilirik
 
 <img width="434" height="265" alt="image" src="https://github.com/user-attachments/assets/d830ba27-0226-4757-a58c-5a9b378cb9e9" />
 
